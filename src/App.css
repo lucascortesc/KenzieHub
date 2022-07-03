@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  min-height: 100vh;
+
+  background-color: rgba(18, 18, 20, 1);
+}
+
+@media (min-width: 1080px) {
+  .App {
+    padding: 0 20vw;
+  }
+}
+
+@media (min-width: 1600px) {
+  .App {
+    padding: 0 20vw;
+  }
+}
