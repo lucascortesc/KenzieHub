@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 
 ## Features
 
-- [ ] Adição, remoção e exclusão de tecnologias.
+- [ ] Adição, edição e remoção de tecnologias.
 - [ ] Mobile First
 - [ ] Cadastro e Login.
 - [ ] Controle de Autenticação, sendo possível acessar o sistema somente após o login.
